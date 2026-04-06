@@ -44,6 +44,12 @@ Core concept: A skill is always-on context — it's in the room for the whole me
 
 Connection to main goal: Subagents are how the Thryve tool stays clean — the orchestrator runs the scoring conversation while subagents handle live data retrieval, competitive analysis, and client-specific tasks in isolation. This is the architecture, not just a concept.
 
+"I don't need to interrupt everyone at a board meeting to check my email" is a teaching snapshot someone will actually remember. It captures isolation, delegation, and context preservation in one sentence without any technical vocabulary.
+
+That's Feynman working. You compressed a two-paragraph distinction into something you could say in passing at tomorrow's meetup and it would land immediately.
+
+Log that line before you lose it — it belongs in your LEARNING.md verbatim.
+
 Next question or action: When building the Thryve skill, map which tasks are always-on (scoring logic, brand voice, templates) versus which tasks get delegated to subagents (live data pulls, report generation, client file retrieval).
 
 Sidequest flag: None. Clean session.
