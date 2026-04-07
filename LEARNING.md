@@ -54,6 +54,23 @@ Next question or action: When building the Thryve skill, map which tasks are alw
 
 Sidequest flag: None. Clean session.
 
+Date: Tuesday, April 8, 2026
+
+Topic: Sharing methods, cloning vs forking, and plugin marketplaces
+
+Core concept: Forking creates your own GitHub copy of someone else's repo — a bookmark with benefits. Cloning downloads it to your local machine so you can actually run it. You fork now, clone when the iMac arrives. Plugins beat repos for distribution when you want usage data and a layer of protection between your work and the end user.
+
+Connection to main goal: Three repos now forked and waiting — Anthropic Cookbooks, Barry's Roadmap Engine, and Barry's AI-First Toolkit. These are day-one clones on the iMac. The M&A plugin insight clarifies how Thryve gets distributed: plugin for visibility and protection, not repo.
+
+Next question or action: Explore plugin marketplaces today. Clone all three repos on iMac day one. Talk to Barry tonight — "I forked both your repos this morning" is a real conversation opener.
+
+Sidequest flag: None. Clean and focused session.
+
+Feynman gap: Plugin marketplace mechanics — how plugins are actually submitted, versioned, and updated. Haven't seen this in practice yet. Exploring marketplaces today will help close this gap.
+
+---
+
+Anything fuzzy before we move to plugin marketplaces?
 Feynman gap: None — first clean Feynman close of the curriculum.
 
 ---
