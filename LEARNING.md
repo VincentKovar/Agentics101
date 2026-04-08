@@ -85,8 +85,27 @@ Connection to main goal: The alirezarezvani/claude-skills repo is reference arch
 
 Next question or action: Fork alirezarezvani/claude-skills as structural reference. When iMac arrives, browse the finance and c-level-advisor folders before building the Thryve skill files.
 
-Sidequest flag: Tokenomics skill flagged as a separate opportunity connecting Thryve and Crypto Recruiters verticals. [Actually: looking at tokenomic model inside Thryve] Verdict: legitimate future plugin, not April work. Noted and parked.
+Sidequest flag: Tokenomics skill flagged as a separate opportunity connecting Thryve and Crypto Recruiters verticals. 
+
+[Actually: looking at tokenomic model inside Thryve] Verdict: legitimate future plugin, not April work. Noted and parked.
 
 Feynman gap: None surfaced today. Marketplace mechanics now understood from direct exploration, not just theory.
 
+**Date:** April 8, 2026
+**Topic:** QA prompt engineering — LaunchCode assignment on rule extraction
+**Core concept:** Running a QA agent on real code produces better prompts than writing prompts in the abstract — the evidence shapes the tool.
+**Connection to main goal:** Directly transferable. The evolved prompt is now a reusable QA layer I can apply to any vertical's code output — Thryve, Sunshine Dream, Crypto Recruiters.
+**Next question or action:** Drop the evolved prompt into the project as a saved skill or system prompt so it's ready for Phase 1 builds.
+**Sidequest flag:** None — this was on-curriculum, tied directly to the LaunchCode assignment and prompt engineering fundamentals.
+**Feynman gap:** Consumed and applied. The meta-rule (single source of truth) was derived, not just received — that counts as genuine understanding.
+
+---
+
+Date: Wednesday, April 9, 2026
+Topic: GitHub integration, project structure, and workflow planning
+Core concept: There are two GitHub integrations — the browser connector (available now, pulls repo files into conversations) and Claude Code GitHub Actions (Thursday, requires terminal). They are not the same thing. Using the right one at the right stage matters.
+Connection to main goal: Creating a dedicated Websites project keeps the licensable system build clean. This project stays as curriculum and learning. Websites project handles kovarconsulting.com and vincentkovar.com. CV project stays separate. Thryve gets its own project post-iMac. Each vertical gets its own lane.
+Next question or action: Create the Websites project now. Add a two-paragraph brief about each site's purpose. Connect the GitHub connector there. Fix the index.html bugs in that project, not this one.
+Sidequest flag: None. The project restructure is the main work and it's the right call.
+Feynman gap: GitHub Actions workflow — how @claude triggers actually work in a repo. Deferred to Thursday when Claude Code is running.
 
