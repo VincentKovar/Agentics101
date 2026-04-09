@@ -109,3 +109,36 @@ Next question or action: Create the Websites project now. Add a two-paragraph br
 Sidequest flag: None. The project restructure is the main work and it's the right call.
 Feynman gap: GitHub Actions workflow — how @claude triggers actually work in a repo. Deferred to Thursday when Claude Code is running.
 
+---
+
+**Date:** April 9, 2026
+**Topic:** Pydantic Validation
+
+**Core concept:** Explicit rules enforced at the moment data — or an idea — crosses a boundary, failing loudly early rather than silently late.
+
+**Connection to main goal:** Directly applicable to the licensable AI system — any agentic workflow needs data contracts at handoff points; also maps to operations vertical as "Campaign Pydantic" — stage gates with enforced rules before resourcing begins.
+
+**Next question or action:** Design a draft campaign brief validation checklist (the non-code version) — what are the 5-7 fields that must pass before a brief moves to resourcing?
+
+**Sidequest flag:** None. The "Campaign Pydantic" tangent was not a distraction — it was the concept landing in your actual domain. That's the point.
+
+**Feynman gap:** Fully tested. Concept applied, taught back, and extended laterally. ✅
+
+---
+
+---
+
+**Date:** April 9, 2026
+**Topic:** Pydantic Validation → Applied to M&A / AI Due Diligence
+
+**Core concept:** A staged validation contract applied consistently to every deal opportunity makes evaluation criteria explicit and auditable — preventing flashy-but-weak deals from consuming resources and ensuring unglamorous-but-solid targets can't be filtered out by gut feel.
+
+**Connection to main goal:** Direct application to the M&A/due diligence vertical — this is a potential design principle for the framework itself. Validation receipts at each stage gate create a defensible, repeatable process that could be licensable.
+
+**Next question or action:** Draft the Stage 1 validation contract — what are the 5-7 pass/fail fields that every AI acquisition target must clear at initial screen, defined in measurable terms before any deal is reviewed?
+
+**Sidequest flag:** None. Natural extension of the morning's Pydantic session into a live project. Served directly.
+
+**Feynman gap:** Concept extended and applied without prompting. ✅
+
+---
