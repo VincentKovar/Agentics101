@@ -142,3 +142,17 @@ Feynman gap: GitHub Actions workflow — how @claude triggers actually work in a
 **Feynman gap:** Concept extended and applied without prompting. ✅
 
 ---
+**Date:** April 9, 2026
+**Topic:** System Engineering Process — the prompt refinement loop
+
+**Core concept:** Decomposing a task into explicit rules forces hidden assumptions into the open, making agent output consistent and bias-detectable — the same mechanism that structured debate scoring uses to eliminate holistic bias.
+
+**Connection to main goal:** Directly applicable to both the M&A due diligence scorer and the recruiter prospect sourcing tool — both need decomposed scoring to catch training-data bias in holistic agent judgment. The back-test against Lev and Gu is the bias detection step.
+
+**Next question or action:** Begin Module 2 loop practice. Draft an initial prompt for one scoring step in either the M&A or recruiter tool.
+
+**Sidequest flag:** None. Both side projects were used as analogies, not detours.
+
+**Feynman gap:** Fully tested today. No outstanding gaps identified.
+
+---
