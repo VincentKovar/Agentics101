@@ -2,9 +2,9 @@ Here's your consolidated entry, ready to copy and paste:
 
 ---
 
-## April 6, 2026 — Learning Log
+## April 2026 — Learning Log
 
-**Session 1**
+**Session 1, April 6**
 
 Topic: Claude skills, agent concepts, and curriculum planning
 
