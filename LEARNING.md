@@ -156,3 +156,18 @@ Feynman gap: GitHub Actions workflow — how @claude triggers actually work in a
 **Feynman gap:** Fully tested today. No outstanding gaps identified.
 
 ---
+**Date:** April 10, 2026
+
+**Topic:** Multi-agent architecture — memory types, orchestration, shared state, tools, and async patterns
+
+**Core concept:** An agent system has four layers — procedural memory (standing rules), episodic memory (history), shared state (live findings), and MCP/API tools (real world reach) — and the Orchestrator reads all three to direct agents without storing anything itself.
+
+**Connection to main goal:** Directly foundational — understanding how agents coordinate, remember, and act is the prerequisite for building any licensable workplace automation system across your three verticals.
+
+**Next action:** Build a mock personal intelligence dashboard artifact — email, calendar, news, KDP — as a design spec for the first real agent build.
+
+**Sidequest flag:** LangChain/LangGraph surfaced. Verdict — legitimate future skill, correctly parked until Python is stronger. Not a distraction, good discipline.
+
+**Feynman gap:** Tested and passed. Independently derived the two-agent pipeline pattern and the CEO briefing architecture without prompting. No gaps flagged for next session.
+
+---
