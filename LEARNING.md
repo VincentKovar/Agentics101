@@ -171,3 +171,19 @@ Feynman gap: GitHub Actions workflow — how @claude triggers actually work in a
 **Feynman gap:** Tested and passed. Independently derived the two-agent pipeline pattern and the CEO briefing architecture without prompting. No gaps flagged for next session.
 
 ---
+---
+
+**Date:** April 17, 2026
+**Topic:** LaunchCode — Workflow Decomposition and Automation Evaluation (Exercises 1 & 2)
+
+**Core concept:** Mapping a task into its components (trigger, actions, handoff, data mapping, output) surfaces hidden decision points, autopilot steps, and architectural gaps that are invisible during manual execution.
+
+**Connection to main goal:** The Post2myGithub workflow directly accelerates the learning pipeline feeding all three verticals — and is a portfolio/teachable asset in its own right.
+
+**Next question or action:** Complete remaining LaunchCode assignment questions; revisit Zapier Table vs Google Sheets distinction in a build context; investigate Zapier Agent behavior with JavaScript-rendered Notion pages.
+
+**Sidequest flag:** Notion → Obsidian → Gamma triangle surfaced from yesterday's seminar. **Verdict:** Serve — but park until Post2myGithub Version 1 is stable.
+
+**Feynman gap:** Consumed heavily today, minimal testing. **Candidate for next Feynman:** Data Mapping — specifically what travels between steps versus what gets transformed.
+
+---
