@@ -187,3 +187,23 @@ Feynman gap: GitHub Actions workflow — how @claude triggers actually work in a
 **Feynman gap:** Consumed heavily today, minimal testing. **Candidate for next Feynman:** Data Mapping — specifically what travels between steps versus what gets transformed.
 
 ---
+Ha — the raccoons have officially lost the contract to rabbits.
+
+Let me pull up the logging skill.---
+
+**Date:** April 18, 2026
+**Topic:** Zapier Architecture — Forms, Zaps, Tables, Agents + Four Pillars of Prompting
+
+**Core concept:** Zaps handle deterministic handoffs; Agents handle semantic interpretation — the handoff point is where predictable rules run out and judgment begins.
+
+**Connection to main goal:** Directly maps to Post2myGithub pipeline architecture (Form → Zap → Table → Agent → GitHub/Slack) and transferable to playwriting opportunity aggregation.
+
+**Next question or action:** Tomorrow — experiment with Zap → Agent data handoff; determine whether Gmail/multi-step limitations are tier walls or configuration gaps. Request LaunchCode student account.
+
+**Sidequest flag:** None. Post2myGithub discussion was on-curriculum, not a detraction.
+
+**Feynman gap:** Tested today — Zap vs. Agent architecture. Clean pass with strong analogy generation. No outstanding gaps.
+
+**Mnemonic captured:** RCFT = Rabbits Can Fandango Tickets *(official as of today)* or Raccoons Can't Fake Talent.
+
+---
