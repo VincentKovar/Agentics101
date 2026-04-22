@@ -207,3 +207,22 @@ Let me pull up the logging skill.---
 **Mnemonic captured:** RCFT = Rabbits Can Fandango Tickets *(official as of today)* or Raccoons Can't Fake Talent.
 
 ---
+Perfect notes. Let me refine the log with that tone correction:
+
+---
+
+**Date:** April 21, 2026
+
+**Topic:** LaunchCode Exercise 2 — Agent vs. Zap decision-making; iterating agent instructions with Copilot
+
+**Core concept:** An Agent is the right tool when a task requires judgment and interpretation (not just data routing), and the agent's value surfaces through *iteration* — each round of imprecise instructions reveals where your workflow thinking was muddy.
+
+**Connection to main goal:** Direct. Post2myGithub needs an Agent for URL classification (matching "interested in" category, ranking multiple matches, flagging unreadable content). Today's exercise taught me: (1) how to scope agent work vs. Zap work, (2) that Copilot gives complete advice that may not fit your actual constraints, and (3) that "as if" language doesn't persist in agent configuration—only explicit rebuild does. Ensure changes have been recorded before testing. The error triggered  by forgetting to give the agent a URL confused the agent and it reverted to an earlier state. 
+
+**Next question or action:** Before building the real Post2myGithub Agent, test whether Zapier's "Visit Site" tool can distinguish between free and paywalled content automatically, or if I need to handle paywall detection separately in the instructions.
+
+**Sidequest flag:** Path B fallback agent (for paywalled/unreadable content → manual paste → extract title/description/repo suggestion). Parked until Post2myGithub V1 is stable. Worth revisiting if manual review becomes bottleneck.
+
+**Feynman gap:** I understand *why* the agent approach beats a Zap for this task (judgment + multiple outputs + fallback logic), but I haven't yet pressure-tested how to hand data from Agent → Zap → Table cleanly. That's next.
+
+---
