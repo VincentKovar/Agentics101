@@ -226,3 +226,22 @@ Perfect notes. Let me refine the log with that tone correction:
 **Feynman gap:** I understand *why* the agent approach beats a Zap for this task (judgment + multiple outputs + fallback logic), but I haven't yet pressure-tested how to hand data from Agent → Zap → Table cleanly. That's next.
 
 ---
+Perfect. Let me pull up your daily learning log template.Got it. Let's capture today:
+
+---
+
+**Date:** Saturday, April 25, 2026
+
+**Topic:** LaunchCode Module 2 — Zap Testing & Failure Classification (Exercise 3)
+
+**Core concept (one sentence):** Predictions reveal the difference between tool behavior and my assumptions; when the Zap didn't break on edge cases, I learned it was designed to be a dumb pipeline, not an intelligent validator.
+
+**Connection to main goal:** Post2myGithub architecture is now proven solid at the data-movement layer (Form → Table → Email → Slack). I can now confidently push complexity into the Agent layer where it belongs, knowing the foundation won't surprise me.
+
+**Next question or action:** Design the Agent classification + extraction logic for Post2myGithub; test it in isolation on the three URLs before integrating into the Zap.
+
+**Sidequest flag:** No sidequests. Notion/Obsidian/Gamma integration triangle stayed parked as intended.
+
+**Feynman gap:** Not just consumed — I tested with three cases and debugged ghost Zaps. One concept I want to pressure-test: *Why is the Zap not validating URLs actually a feature, not a limitation?* (I have a hypothesis, but want to nail it tomorrow.)
+
+---
