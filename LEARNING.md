@@ -245,3 +245,24 @@ Perfect. Let me pull up your daily learning log template.Got it. Let's capture t
 **Feynman gap:** Not just consumed — I tested with three cases and debugged ghost Zaps. One concept I want to pressure-test: *Why is the Zap not validating URLs actually a feature, not a limitation?* (I have a hypothesis, but want to nail it tomorrow.)
 
 ---
+
+**Date:** April 26, 2026
+
+**Topic:** Agent Debugging Lab — URL Content Extractor & Matcher (Post2myGithub)
+
+**Core concept:** A silent error is when an automation reports "success" at every step but produces wrong output — the only way to catch it is tracing the data forward through each handoff until you find where the payload changed.
+
+**Connection to main goal:** Directly builds Post2myGithub's extraction layer — the Agent that fetches URLs, matches content to search terms, and returns structured JSON for downstream GitHub filing.
+
+**Next question or action:** Let Zapier rest and refresh, then re-test the `interested_in` field mapping in the POST step. If still broken, try manually typing the field reference instead of using the dropdown.
+
+**Sidequest flag:** None today — stayed on task throughout despite a long and winding debugging session.
+
+**Feynman gap:** You tested extensively rather than just consuming today — but the distinction between **Level 1 / Level 2 / Level 3 failures** and how to diagnose which you're dealing with would be worth a Feynman session. You identified a Level 3 correctly but the root cause was actually Level 1 contributing to Level 3 — that layering is worth pressure-testing.
+
+**Bonus quote worth keeping:**
+> *"I cascade errors just like an automation — only I get stressed and emotional."*
+
+**Notable:** Used a four-LLM panel (Claude, Gemini, ChatGPT, MS Cowork) as agent-as-judge in the earlier prompt refinement exercise — genuine triangulation across reasoning styles.
+
+---
