@@ -266,3 +266,30 @@ Perfect. Let me pull up your daily learning log template.Got it. Let's capture t
 **Notable:** Used a four-LLM panel (Claude, Gemini, ChatGPT, MS Cowork) as agent-as-judge in the earlier prompt refinement exercise — genuine triangulation across reasoning styles.
 
 ---
+**Date:** April 26, 2026
+
+**Topic:** Agent Debugging Lab (Post2myGithub) + LaunchCode Exercise 2 Reflection
+
+**Core concept:** Agents fail quietly and repeat approximately; Zaps fail loudly and repeat perfectly. That difference determines everything about how you test and monitor each layer.
+
+**Connection to main goal:** Today's work produced the actual extraction layer for Post2myGithub, identified the HITL gate sequence, clarified the two-workflow problem (batch backlog vs. live intake), and surfaced the repo structure as a blocking dependency for Version 1.
+
+**Next question or action:** Let Zapier rest, then retest the `interested_in` field handoff. Design the GitHub repo folder taxonomy so the categories dropdown can be built against real folder paths.
+
+**Sidequest flag:** LinkedIn post about the trivium and prompt engineering. Verdict: serves. It synthesizes a genuine insight from today's work and builds professional presence in the target market.
+
+**Feynman gap:** Tested extensively today rather than consuming. The concept worth pressure-testing next: the distinction between batch processing architecture and live intake architecture, and what specifically needs to be different in the Zap design for each.
+
+**Bonus insight worth keeping:**
+> *"The automation is only as reliable as the decisions made before it runs."*
+
+---
+**Date:** April 27, 2026
+**Topic:** Automation candidate evaluation & scoring spreadsheet
+**Core concept:** Automation candidates are assessed across five dimensions — time, frequency, attention cost, feasibility, and risk — to produce a comparable score that ranks which tasks are worth automating first.
+**Connection to main goal:** Directly builds the prioritization framework for all three verticals (M&A, emigration, Post2myGitHub); knowing *which* tasks to automate and *in what order* is foundational before building anything.
+**Next question or action:** Apply the official composite formula from next lesson to the spreadsheet and re-rank all 16 candidates.
+**Sidequest flag:** None flagged today. Clean session.
+**Feynman gap:** The five-dimension scoring model was applied but not pressure-tested — what happens to the ranking if frequency and time are weighted more heavily than attention cost? Worth a Feynman next session.
+
+---
