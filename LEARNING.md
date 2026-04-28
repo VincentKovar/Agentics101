@@ -293,3 +293,31 @@ Perfect. Let me pull up your daily learning log template.Got it. Let's capture t
 **Feynman gap:** The five-dimension scoring model was applied but not pressure-tested — what happens to the ranking if frequency and time are weighted more heavily than attention cost? Worth a Feynman next session.
 
 ---
+**Date:** April 28, 2026
+**Topic:** Automation prioritization formula, candidate scoring and review, assumption testing, prototype methods, and rollback planning
+
+**Core concept:** Before building any automation, you must convert your riskiest assumption into a testable statement with locked pass/fail criteria -- because replacing belief with evidence before committing to a build is what separates disciplined automation design from expensive guesswork.
+
+**Connection to main goal:** Directly governs build sequencing across all active projects. The If/Then Decision Table and prototype sequencing (Prompt Prototype first, Stubbed Test second) will be the standard pre-build checklist for Post2myGitHub V2, the LinkedIn workflow, and any future licensable tool. The sidequest application to the UEA application produced a domain-adapted spreadsheet extending the base formula with a second Legal/Ethical Risk penalty gate -- a methodological contribution worth keeping.
+
+**Key terms from today:**
+
+Assumption categories: Impact, Input/Data, Output Quality, Workflow Adoption, Safety
+
+Prototype methods: Prompt Prototype (tests AI reasoning quality), Wizard-of-Oz Test (tests whether the process actually saves time), Stubbed Test (tests system connections and conditional logic), Shadow Mode (final safety check before launch)
+
+Decision thresholds: Time Savings gate, Risk gate, Review Burden gate -- in that priority order, with Risk as the hard stop
+
+Failure types revisited: Silent fail (agent fabricates confident output for unreadable content) vs. flagged fail (agent correctly identifies it cannot process a source) -- silent fails are the more dangerous category
+
+Formula dimensions: Time per Occurrence, Frequency per Week, Attention Cost, Automation Feasibility, Automation Risk -- plus the extended Legal/Ethical Risk gate developed for the UEA context
+
+Candidate types: Individual Task, Workflow Step, Workflow, Repeated Decision
+
+**Next question or action:** Run the 5-URL Prompt Prototype against the existing Zapier agent. Mix: one clean article, one paywalled source, one LinkedIn carousel, one PDF, one edge case of your choice. Score against the locked pass criteria before touching GitHub integration.
+
+**Sidequest flag:** UEA Lecturer in Digital Storytelling and AI application -- produced a domain-adapted automation scoring spreadsheet extending the base formula for media production contexts. Verdict: serves. Direct portfolio evidence of the ability to teach this methodology in a discipline-specific setting, which is exactly what the person spec requires.
+
+**Feynman gap:** Prototype sequencing was discussed but not pressure-tested. The logic of "test the brain before the plumbing" feels intuitive -- but could you explain precisely why a Stubbed Test with a hardcoded response actually isolates the integration question from the reasoning question? That distinction is worth a Feynman next session.
+
+---
