@@ -321,3 +321,16 @@ Candidate types: Individual Task, Workflow Step, Workflow, Repeated Decision
 **Feynman gap:** Prototype sequencing was discussed but not pressure-tested. The logic of "test the brain before the plumbing" feels intuitive -- but could you explain precisely why a Stubbed Test with a hardcoded response actually isolates the integration question from the reasoning question? That distinction is worth a Feynman next session.
 
 ---
+## 2026-05-02
+
+**Topic:** Module 4 · Comparing Automation Approaches · Zap vs. Zap-with-AI vs. Zapier Agent
+
+**Core concept:** A Zap with AI is a fixed pipeline with one specialist station that answers a single question and hands control back to the line — the structure was predetermined before the AI ever ran. It is not an Agent.
+
+**Connection to main goal:** Directly applicable to Post2myGithub (classification and normalization as Zap-with-AI steps upstream of the Agent), Spanish Emigration tool (semantic normalization of status terms like "pending" vs. "see notes"), and any workflow where Agent scope can be reduced by pre-cleaning inputs.
+
+**Next action:** Revisit Post2myGithub Agent prompt — identify which steps are normalization or classification candidates that could be moved upstream as Zap-with-AI steps to reduce Agent scope and Level 3 error surface.
+
+**Sidequest flag:** None. Lateral thinking on Spanish Emigration and M&A Analyzer stayed in service of the core concept.
+
+**Feynman gap:** Closed. Gap on Zap-with-AI was identified, pressure-tested, and resolved. Teaching snapshot produced.
