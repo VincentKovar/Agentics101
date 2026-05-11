@@ -334,3 +334,21 @@ Candidate types: Individual Task, Workflow Step, Workflow, Repeated Decision
 **Sidequest flag:** None. Lateral thinking on Spanish Emigration and M&A Analyzer stayed in service of the core concept.
 
 **Feynman gap:** Closed. Gap on Zap-with-AI was identified, pressure-tested, and resolved. Teaching snapshot produced.
+
+---
+
+**Date:** May 11, 2026
+**Topic:** Module 5 · Communicate Impact · Lesson 1 + Lab — From Numbers to Narrative
+
+**Core concept:** Automation impact is only credible when quantified, assumption-stated, and translated into language that answers the leadership question: "What value did this create?"
+
+**Connection to main goal:** Directly serves the capstone submission and establishes the business case framework applicable to Post2myGithub, M&A Analyzer, and Spanish Emigration tool as licensable products.
+
+**Next action:** Begin Module 3 Five-Dimension Evaluation Model scoring for Post2myGithub; build capstone slide structure against the rubric gap analysis completed today.
+
+**Sidequest flag:** Two flags — Obsidian/LLM pattern recognition integration, and collaborative team indexing with AI deduplication. Both parked. Verdict: real v2/v3 product thinking, not distractions — log in LEARNING.md for roadmap.
+
+**Feynman gap:** Four-Lens Framework (Module 4) not yet tested — needs a session before capstone alternative evaluation section is written.
+
+---
+
