@@ -351,4 +351,42 @@ Candidate types: Individual Task, Workflow Step, Workflow, Repeated Decision
 **Feynman gap:** Four-Lens Framework (Module 4) not yet tested — needs a session before capstone alternative evaluation section is written.
 
 ---
+I don't have access to trigger your custom skill directly from here. Your Daily Learning Log skill lives in your Claude.ai Skills UI and activates when you use the trigger phrase in a standard chat.
+
+Here's what to do:
+
+1. Open a **new chat** in Claude Desktop (not this one)
+2. Type `log today`
+3. Your Daily Learning Log skill will activate and guide you through capturing the session
+
+Alternatively, you can manually create a note with today's learning. Here's a template based on what you accomplished:
+
+---
+
+**Date:** June 4, 2026  
+**Session:** Traversaal Claude Code in Practice — Module 2  
+**Status:** ✅ Completed
+
+**What I did:**
+- Installed Claude Code via native binary (npm had permission issues)
+- Cloned claude-code-starter repo and navigated to module-1
+- Ran `claude` in terminal to open Claude Code session
+- Completed interactive setup: selected TypeScript/JavaScript stack, greenfield codebase, web app type
+- Created CLAUDE.md file with project overview, domain glossary, and key rules
+- Verified Claude reads CLAUDE.md by starting a fresh session
+- Identified five scoring signals from Lev & Gu M&A framework (Goodwill Growth, Industry Relatedness, Deal Size, Target Profitability, Payment Method)
+
+**Key learning:**
+CLAUDE.md is permanent project context that eliminates context-setting every session. Without it, you restart from zero each time. With it, Claude Code remembers your role, project, conventions, and preferences.
+
+**Blockers identified (for tomorrow):**
+- Database/ORM choice (Postgres? SQLite? Supabase?)
+- Data sources (where acquisition financials come from?)
+- Pipeline trigger mechanism (cron? GitHub Action?)
+
+**Next session priorities:**
+1. Create SCORING_FRAMEWORK.md with detailed signal definitions
+2. Decide on database choice
+3. Start fresh Claude Code session to test improved context
+
 
