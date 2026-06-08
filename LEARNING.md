@@ -403,3 +403,22 @@ CLAUDE.md is permanent project context that eliminates context-setting every ses
 **Sidequest flag:** Terminal fluency for GUI-agnostic foundation. Verdict: SERVE. This transcends interface choice and directly supports vibe coding and future scalability.
 
 **Feynman gap:** Grasped the conceptual connection between shells, OS, and commands well. One pressure point: can you explain why terminal context is broader than Desktop tab context without looking at docs?
+-----
+# Daily Learning Log: GitHub Skills
+
+**Date:** June 8, 2026
+
+**Topic:** GitHub version control fundamentals and repository workflows
+
+**Core concept (in my own words):** Repositories are containers for tracking changes to code over time, and commits create a persistent record of what changed and why at each step.
+
+**Connection to main goal:** Understanding GitHub workflows is foundational for the licensable AI system build. I need version control discipline to manage code iterations as I develop Claude Code skills and agents. This applies directly to Thryve's M&A system and my ongoing projects.
+
+**Next question or action:** How do pull requests work in practice for collaborative development? I want to understand the review process before I contribute to any shared repositories.
+
+**Sidequest flag:** None. Stayed focused on GitHub core concepts without drift.
+
+**Feynman gap:** I consumed the tutorials but didn't test my understanding by actually setting up a local repository and practicing commits offline. I should do that before moving forward.
+
+**Pressure test needed:** The relationship between branches, commits, and merges still feels somewhat abstract. I want to walk through that one more time.
+
