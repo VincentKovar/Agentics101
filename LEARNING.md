@@ -421,4 +421,25 @@ CLAUDE.md is permanent project context that eliminates context-setting every ses
 **Feynman gap:** I consumed the tutorials and then build and tested a number of commits
 
 **Pressure test needed:** The relationship between branches, commits, and merges still feels somewhat abstract. I want to walk through that one more time.
+---
+# Daily Learning Log: JavaScript Functions and Declarations
 
+**Date:** June 8, 2026
+
+**Topic:** JavaScript function declarations versus function expressions, hoisting, and unreachable code
+
+**Core concept (in my own words):** Function declarations are utility functions available everywhere in your scope because JavaScript hoists them. Function expressions require you to create a variable container first and are tied to specific contexts or events.
+
+**Connection to main goal:** Understanding function architecture is foundational for building Claude Code skills and agents. I need to recognize when to write reusable utilities (declarations) versus event-specific callbacks (expressions). This applies directly to structuring the M&A scoring system and any AI assistant I build.
+
+**Next question or action:** How do arrow functions fit into this declaration versus expression framework? Are they always expressions, or can they be both?
+
+**Sidequest flag:** None. Stayed focused on core function concepts.
+
+**Feynman gap:** I tested my understanding through the ecommerce inventory example and could articulate the distinction. No major consumption-only moments. Ready to move forward.
+
+**Key takeaways:**
+- Unreachable code means structurally impossible to execute (after return statements), not just conditionally skipped
+- Declarations create named functions immediately; expressions require a variable container (const)
+- Declarations are globally accessible utilities; expressions are instance-specific actions in one location
+- The ecommerce inventory example solidified the practical difference
