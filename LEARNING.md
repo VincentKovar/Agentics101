@@ -389,4 +389,11 @@ CLAUDE.md is permanent project context that eliminates context-setting every ses
 2. Decide on database choice
 3. Start fresh Claude Code session to test improved context
 
-
+---
+Date: June 8, 2026
+Topic: Traversaal Claude Code in Practice, Module 3 (Skills & PRDs)
+Core concept: Skills are reusable Markdown files with YAML frontmatter that encode repeatable workflows and decision trees you own and can modify, removing manual repetition across projects.
+Connection to main goal: This directly builds your Claude Code fluency for the licensable AI system and supports your Head of Growth & Marketing interview prep by demonstrating practical product development workflow knowledge. PRD generation skills apply to your GTM stack visualization work.
+Next question or action: Review the generated goodwill overpayment detection PRD and verify it aligns with acquisition risk modeling. Decide whether to customize the /prd-generator skill for your domain or continue with default templates in Module 4.
+Sidequest flag: Terminal fluency for GUI-agnostic foundation. Verdict: SERVE. This transcends interface choice and directly supports vibe coding and future scalability.
+Feynman gap: You grasped the conceptual connection between shells, OS, and commands well. One pressure point: can you explain why terminal context is broader than Desktop tab context without looking at docs?
