@@ -404,7 +404,7 @@ CLAUDE.md is permanent project context that eliminates context-setting every ses
 **Feynman gap:** Grasped the conceptual connection between shells, OS, and commands well. One pressure point: can you explain why terminal context is broader than Desktop tab context without looking at docs?
 
 -----
-# Daily Learning Log: GitHub Skills
+Daily Learning Log: GitHub Skills
 
 **Date:** June 8, 2026
 
@@ -421,8 +421,9 @@ CLAUDE.md is permanent project context that eliminates context-setting every ses
 **Feynman gap:** I consumed the tutorials and then build and tested a number of commits
 
 **Pressure test needed:** The relationship between branches, commits, and merges still feels somewhat abstract. I want to walk through that one more time.
+
 ---
-# Daily Learning Log: JavaScript Functions and Declarations
+Daily Learning Log: JavaScript Functions and Declarations
 
 **Date:** June 8, 2026
 
