@@ -444,3 +444,17 @@ Daily Learning Log: JavaScript Functions and Declarations
 - Declarations create named functions immediately; expressions require a variable container (const)
 - Declarations are globally accessible utilities; expressions are instance-specific actions in one location
 - The ecommerce inventory example solidified the practical difference
+----
+Date: June 8, 2026
+
+Topic: Traversaal Claude Code in Practice — Modules 3 & 4 (Skills, PRDs, Running Apps)
+
+Core concept: Skills are plain-text markdown files that encode repeatable workflows; Claude Code reads them and executes them consistently without re-explanation every session.
+
+Connection to main goal: Directly supports building standardized AI-powered workflows for M&A acquisition research and team automation pipelines.
+
+Next question or action: Explore Cowork automation for end-of-day meeting note collection, summarization, and delivery to Slack/email using cloud-stored files.
+
+Sidequest flag: OpenRouter and API pricing exploration — useful context, not a distraction. Serves the goal of understanding how to connect apps to AI models.
+
+Feynman gap: Consumed heavily today. Concepts worth pressure-testing: difference between local app vs. cloud API execution, and how Bash/shell/OS relate to each other.
