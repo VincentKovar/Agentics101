@@ -458,6 +458,7 @@ Next question or action: Explore Cowork automation for end-of-day meeting note c
 Sidequest flag: OpenRouter and API pricing exploration — useful context, not a distraction. Serves the goal of understanding how to connect apps to AI models.
 
 Feynman gap: Consumed heavily today. Concepts worth pressure-testing: difference between local app vs. cloud API execution, and how Bash/shell/OS relate to each other.
+
 ---
 
 **Date:** 2026-06-22
@@ -477,6 +478,7 @@ Feynman gap: Consumed heavily today. Concepts worth pressure-testing: difference
 **Sidequest flag:** Noticed the Claude Code desktop tab has its own separate browser tools and does not share the Playwright install from terminal Claude Code. Verdict: SERVE. Understanding tool environment separation is foundational knowledge.
 
 **Feynman gap:** Consumed. The concept that needs pressure-testing is how MCP server registration actually works under the hood, specifically why the desktop tab and terminal tab have separate tool configs.
+
 ----
 Date: 2026-06-22
 
