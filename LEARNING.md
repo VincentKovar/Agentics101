@@ -459,27 +459,7 @@ Sidequest flag: OpenRouter and API pricing exploration — useful context, not a
 
 Feynman gap: Consumed heavily today. Concepts worth pressure-testing: difference between local app vs. cloud API execution, and how Bash/shell/OS relate to each other.
 
----
 
-**Date:** 2026-06-22
-
-**Topic:** Playwright MCP installation, MCP as a concept, Claude Code browser access
-
-**Core concept:** MCP is a standard plug-in system that gives Claude Code access to external tools like a real browser, so it fetches live information instead of guessing from training data.
-
-**Connection to main goal:** Gives Claude Code the ability to do live competitive and documentation research, which is directly useful for the M&A acquisition dashboard and for understanding how to build more capable AI workflows.
-
-**AI concepts:** MCP (Model Context Protocol), browser automation via agent tools, Claude Code tool registration, agentic task execution
-
-**Career domains:** AI-assisted product management, agentic workflow design
-
-**Next action:** Complete Module 3 and build the first sub-agent, a research specialist that handles competitor research automatically.
-
-**Sidequest flag:** Noticed the Claude Code desktop tab has its own separate browser tools and does not share the Playwright install from terminal Claude Code. Verdict: SERVE. Understanding tool environment separation is foundational knowledge.
-
-**Feynman gap:** Consumed. The concept that needs pressure-testing is how MCP server registration actually works under the hood, specifically why the desktop tab and terminal tab have separate tool configs.
-
-----
 ---
 
 **Date:** 2026-06-22
