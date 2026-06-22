@@ -477,3 +477,24 @@ Feynman gap: Consumed heavily today. Concepts worth pressure-testing: difference
 **Sidequest flag:** Noticed the Claude Code desktop tab has its own separate browser tools and does not share the Playwright install from terminal Claude Code. Verdict: SERVE. Understanding tool environment separation is foundational knowledge.
 
 **Feynman gap:** Consumed. The concept that needs pressure-testing is how MCP server registration actually works under the hood, specifically why the desktop tab and terminal tab have separate tool configs.
+----
+Date: 2026-06-22
+
+Session: Traversaal Claude Code in Practice — Sub-Agents
+
+Status: Completed
+What I did:
+
+Learned the distinction between skills (run in main session context) and sub-agents (run in isolated context, return clean output)
+Copied research-agent.md from the course repo into ~/.claude/agents/
+Confirmed the agent file uses claude-opus-4-8, WebSearch, WebFetch, and Read tools, with structured output in three sections: Key Findings, Sources, and Gaps
+Tested delegation by prompting Claude Code to research clinical note automation competitors
+Observed the agent spin up, hit a web access permissions wall, and recover gracefully by completing the task in the main session
+Connected the research agent to the M&A acquisition dashboard as the first piece of a three-part automated pipeline
+
+Key learning: A sub-agent takes a task, works in its own separate context, and returns only the finished result. The main session stays clean. Claude routes to the agent automatically by reading the description field, so you describe the task rather than naming the tool.
+AI concepts: Sub-agent architecture, agent delegation, context isolation, agent file structure, MCP tool permissions
+Career domains: AI-assisted product management, agentic workflow design
+Next action: Run the research agent on a real M&A target sector relevant to the acquisition dashboard, then continue to the PRD reviewer and code reviewer agent lessons.
+Sidequest flag: Explored how the sub-agent system maps to the M&A acquisition dashboard pipeline. Verdict: SERVE. This is the parallel build track agreed to run alongside the course.
+Feynman gap: Why the research agent hit a web access permissions wall and how to configure sub-agent tool permissions so it does not fall back to the main session.
