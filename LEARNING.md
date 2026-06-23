@@ -510,6 +510,7 @@ Feynman gap: Consumed heavily today. Concepts worth pressure-testing: difference
 **Sidequest flag:** Explored how the sub-agent system maps to the M&A acquisition dashboard pipeline. Verdict: SERVE. This is the parallel build track agreed to run alongside the course.
 
 **Feynman gap:** Why the research agent hit a web access permissions wall and how to configure sub-agent tool permissions so it does not fall back to the main session.
+
 ----
 
 **Date:** 2026-06-23
