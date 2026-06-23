@@ -510,3 +510,30 @@ Feynman gap: Consumed heavily today. Concepts worth pressure-testing: difference
 **Sidequest flag:** Explored how the sub-agent system maps to the M&A acquisition dashboard pipeline. Verdict: SERVE. This is the parallel build track agreed to run alongside the course.
 
 **Feynman gap:** Why the research agent hit a web access permissions wall and how to configure sub-agent tool permissions so it does not fall back to the main session.
+----
+
+**Date:** 2026-06-23
+**Session:** Traversaal Claude Code in Practice — PRD Reviewer, Code Reviewer, Agent Team
+**Status:** ✅ Completed
+
+**What I did:**
+- Copied prd-reviewer.md and code-reviewer.md from course repo into ~/.claude/agents/
+- Ran prd-reviewer against the Goodwill Overpayment Detection PRD and received specific findings including seven missing acceptance criteria, five missing edge cases, and one scope creep flag
+- Identified personal knowledge gaps surfaced by the review (ASC 805, SLA definitions, boundary rule ambiguity)
+- Ran code-reviewer against the course full-stack demo and surfaced a legitimate security vulnerability where the API key is sent directly from the browser while the lesson teaches the opposite pattern
+- Connected the >= vs == JavaScript lesson to a real product decision about the 5% threshold boundary
+- Identified that the M&A dashboard has no code yet, which confirmed the PRD foundations need resolving before building begins
+- Reviewed the full course README and forked the repo to use as a personal skills library
+
+**Key learning:** A prd-reviewer catches conceptual gaps before engineering starts and a code-reviewer catches implementation gaps before anything ships. Running both in sequence revealed that my PRD had unresolved scope and my codebase was greenfield, which is the correct order to discover those things.
+
+**AI concepts:** Sub-agent delegation, read-only agent constraints, structured output formatting, agent file path resolution, context isolation
+
+**Career domains:** AI-assisted product management, fintech product development, agentic workflow design
+
+**Next action:** Complete assignment 3e by copying data-analyst and copy-writer agents, then tomorrow tackle assignment 3f (agent team blueprint for Thryve) with fresh context.
+
+**Sidequest flag:** Surfaced a real security vulnerability in the course demo material where API key handling contradicts the lesson content. Verdict: SERVE. Worth raising with Hamza or the course community directly.
+
+**Feynman gap:** Consumed today with strong real-world application. Concept worth pressure-testing: what specifically makes a scope creep flag different from a missing edge case, and how would you resolve each differently in practice?
+
