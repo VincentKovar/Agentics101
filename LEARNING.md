@@ -538,3 +538,17 @@ Feynman gap: Consumed heavily today. Concepts worth pressure-testing: difference
 
 **Feynman gap:** Consumed today with strong real-world application. Concept worth pressure-testing: what specifically makes a scope creep flag different from a missing edge case, and how would you resolve each differently in practice?
 
+----
+
+**Date:** 2026-06-24
+**Topic:** Agent chaining, evals, skill fixing, Thryve data architecture
+**Core concept:** Chaining agents with "then" in a single prompt is how I hand off work between specialists without managing the handoffs myself, and evals are how I verify the chain is reliable before I depend on it.
+**Connection to main goal:** Today's pipeline pattern, research to PRD to review, is the exact relay race Thryve will run when evaluating acquisition targets, and the data gaps surfaced by the eval define what domain knowledge I need to source before building.
+**AI concepts:** Agent chaining, sub-agent orchestration, skill evaluation, ground truth tables, human-in-the-loop design, impression versus evidence
+**Career domains:** AI-assisted product management, M&A fintech product development
+**Next action:** Deploy to Vercel tomorrow, then begin sourcing the four Thryve data inputs: Lev and Gu paper, SEC EDGAR API documentation, Damodaran industry benchmarks, and SIC code reference data.
+**Sidequest flag:** Discovered the prd-generator defaults to generic risk language for domain-specific inputs. Fixed by adding a domain specificity rule to SKILL.md. Verdict: SERVE. The fix directly improves Thryve PRD quality.
+**Feynman gap:** Consumed today with strong application. Concept worth pressure-testing: what is the precise difference between a skill, an agent, a sub-agent, and a plugin, and could I draw the hierarchy from memory without prompting?
+
+----
+
