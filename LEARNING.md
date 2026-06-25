@@ -552,3 +552,13 @@ Feynman gap: Consumed heavily today. Concepts worth pressure-testing: difference
 
 ----
 
+**Date:** 2026-06-25
+**Topic:** Vercel deployment, Next.js architecture, full stack mental model
+**Core concept:** Vercel is a single platform that hosts the frontend, runs the backend logic, routes to the AI backend via an API key, and returns results to the frontend for display.
+**Connection to main goal:** Thryve will eventually need a deployed frontend that finance specialists can access via URL to give real feedback. Today's session built the deployment muscle and established the infrastructure address where that experience will live.
+**AI concepts:** AI backend routing, environment variables as API key storage, server-side vs browser-side execution
+**Career domains:** Product management, AI product development
+**Next action:** When Thryve's data dependencies are resolved (SEC EDGAR, Damodaran, SIC codes), return to Vercel and deploy a minimal input form that calls the goodwill detection logic as the first real stakeholder-facing version.
+**Sidequest flag:** The 404 on the production URL briefly pulled focus. SERVE: it surfaced a genuine understanding gap about what was actually deployed versus what the course assumed had been built, which led to a clearer picture of where Thryve actually sits in the build sequence.
+
+
