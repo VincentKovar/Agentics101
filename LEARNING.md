@@ -561,4 +561,17 @@ Feynman gap: Consumed heavily today. Concepts worth pressure-testing: difference
 **Next action:** When Thryve's data dependencies are resolved (SEC EDGAR, Damodaran, SIC codes), return to Vercel and deploy a minimal input form that calls the goodwill detection logic as the first real stakeholder-facing version.
 **Sidequest flag:** The 404 on the production URL briefly pulled focus. SERVE: it surfaced a genuine understanding gap about what was actually deployed versus what the course assumed had been built, which led to a clearer picture of where Thryve actually sits in the build sequence.
 
+----
+<!-- LOG:START -->
+**Date:** 2026-06-28
+**Topic:** IDE tool comparison (Cursor, Codex, Github Copilot, Antigravity IDE (differentiated from main Antigravity app), Antigravity setup, product architecture, deployment strategy, Kanban as composable tool
+**Core concepts:** Vercel is a full-stack host that serves the frontend, runs backend logic, routes to the AI layer, and returns results to the user, and the composable approach keeps AI at the orchestration layer rather than embedding it into every individual tool. YOLO mode.
+**Connection to main goal:** Clarified the right stack for future projects (Claude Code plus VS Code, not Antigravity), confirmed Freemium can deploy to Vercel as a single HTML file when the ARG is ready, and developed a reusable Kanban architecture pattern that applies to both Research Compass and future Thryve portfolio pieces.
+**AI concepts:** Agent orchestration, composable tool architecture, server-side vs browser-side execution, environment variables
+**Career domains:** Product management, AI product development
+**Builds:** FPS game (primitive POC only), Kanban boards. More hands-on with VS Code & extensions
+**Next action:** When ready to deploy Freemium for the ARG, point Vercel at the single HTML file. No backend, no environment variables needed. Five-minute job.
+**Sidequest flag:** Antigravity setup consumed significant time due to a missing IDE component. DISTRACT from course progress but SERVE as a real-world lesson in tool evaluation and knowing when to stop troubleshooting.
+**Feynman gap:** Consumed rather than tested today. Concept to pressure-test next: the difference between Vercel's backend (logic execution) and Supabase (persistent storage) and why a Kanban board needs Supabase but Freemium does not.
+<!-- LOG:END -->
 
